@@ -1,5 +1,9 @@
 # 💫 About Me:
-At present, I am a student at GSU studying Computer Science, utilizing GitHub to collaborate with like-minded learners to advance my knowledge and skills for my future career goals. I am currently working to master Python(my first programming language) as some of my interests consist of A.I. and Data Science.
+Hi! My name is Asrar Syed, presently a student at GSU studying Computer Science.
+
+I am at the start of my programming journey, so I'm planning on utilizing GitHub to collaborate with like-minded learners to advance my knowledge and skills for my future career goals.
+
+I am currently working to master Python(my first programming language) as some of my interests consist of A.I. and Data Science.
 
 
 ## 🌐 Socials:
